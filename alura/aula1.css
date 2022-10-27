@@ -1,0 +1,38 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://raw.githubusercontent.com/rodrigobrugiolo/rodrigobrugiolo/main/pasta/branco%20e%20roxo%20logo.png');
+  /*neste caso eu upei uma imagem diretamente do meu github*/
+ background-color: #a72b67 ;
+  background-size: 80vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:black;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color:black;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+ 
